@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 
-My name is **Willian simões**, I'm developer
+My name is **Willian simões**, I'm developer *Mobile*
 
 - 🌱 I’m currently learning ...
 
