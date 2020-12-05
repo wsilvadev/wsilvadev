@@ -7,7 +7,8 @@
 
 
 My name is **Willian simões**, I'm developer *Mobile*
-I beginning to learn new technologies to improve my knowledge in this big world of programming
+
+##### I beginning to learn new technologies to improve my knowledge in this big world of programming
 
 - 🌱 I’m currently learning ...
 
